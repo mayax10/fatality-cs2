@@ -1,10 +1,14 @@
 [
   {
-    "name": "Brightside HVH #1",
+    "name": "MysteryHvH Spread EU",
     "ip": "91.200.220.245:27015"
   },
   {
-    "name": "Brightside Mirage",
-    "ip": "127.0.0.1:27015"
+    "name": "McDonaldsHvH EU",
+    "ip": "62.192.153.60:27019"
+  },
+  {
+    "name": "AvalonHvH BR",
+    "ip": "80.75.221.5:28002"
   }
 ]
