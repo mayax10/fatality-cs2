@@ -1,7 +1,11 @@
 [
   {
-    "name": "MysteryHvH",
+    "name": "MysteryHvH - Mirage",
     "ip": "91.200.220.245:27015"
+  },
+  {
+    "name": "MysteryHvH - Office",
+    "ip": "91.200.220.14:27025"
   },
   {
     "name": "McDonaldsHvH",
