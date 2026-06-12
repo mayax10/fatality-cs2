@@ -1,42 +1,65 @@
 [
   {
-    "name": "[EU] CS2HVHSERVERS.COM",
+    "name": "CS2HVHSERVERS.COM",
     "ip": "95.135.1.80:27016",
     "map": "de_mirage",
     "spread": 0,
     "nodt": 1,
-    "scoutonly": 1
+    "scoutonly": 1,
+    "region": "de"
   },
   {
-    "name": "[EU] CS2HVHSERVERS.COM",
+    "name": "CS2HVHSERVERS.COM",
     "ip": "95.135.1.80:27026",
     "map": "de_mirage",
     "spread": 1,
     "nodt": 1,
-    "scoutonly": 1
+    "scoutonly": 1,
+    "region": "de"
   },
   {
-    "name": "[RU/EU] |Santa HvH|",
-    "ip": "62.122.215.78:27015",
-    "map": "de_inferno",
-    "spread": 0,
-    "nodt": 0,
-    "scoutonly": 0
-  },
-  {
-    "name": "RANTEIS HVH",
-    "ip": "62.122.215.78:27015",
-    "map": "de_dust2",
+    "name": "CS2HVHSERVERS.COM",
+    "ip": "80.75.221.5:28006",
+    "map": "de_mirage",
     "spread": 1,
     "nodt": 1,
-    "scoutonly": 0
+    "scoutonly": 1,
+    "region": "br"
   },
   {
-    "name": "[EU/RO] MysteryHvH",
+    "name": "CS2HVHSERVERS.COM",
+    "ip": "40.27.42.81:27015",
+    "map": "de_mirage",
+    "spread": 1,
+    "nodt": 1,
+    "scoutonly": 1,
+    "region": "us"
+  },
+  {
+    "name": "|Santa HvH|",
+    "ip": "62.122.215.78:27015",
+    "map": "de_dust2",
+    "spread": 0,
+    "nodt": 0,
+    "scoutonly": 0,
+    "region": "ru"
+  },
+  {
+    "name": "MysteryHvH",
     "ip": "45.13.151.243:27015",
     "map": "de_mirage",
     "spread": 1,
     "nodt": 1,
-    "scoutonly": 1
+    "scoutonly": 1,
+    "region": "ro"
+  },
+  {
+    "name": "MysteryHvH",
+    "ip": "202.189.15.28:27020",
+    "map": "de_mirage",
+    "spread": 1,
+    "nodt": 1,
+    "scoutonly": 1,
+    "region": "cn"
   }
 ]
