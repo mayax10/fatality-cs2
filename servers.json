@@ -54,9 +54,9 @@
     "region": "ro"
   },
   {
-    "name": "MysteryHvH",
+    "name": "FluxHvH",
     "ip": "202.189.15.28:27020",
-    "map": "de_mirage",
+    "map": "de_dust2",
     "spread": 1,
     "nodt": 1,
     "scoutonly": 1,
